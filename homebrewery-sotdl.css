@@ -44,6 +44,12 @@
   background-size: 100% 100%;
   padding-top: 0.45em;
   padding-bottom : 25px;
+  padding-left: 1.4cm;
+  padding-right: 1.4cm;
+  margin-left: -1.4cm;
+  margin-right: -1.4cm;
+  width: calc(100% + 2.8cm);
+  box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
 }
 

@@ -46,9 +46,9 @@
   padding-bottom : 25px;
   padding-left: 1.4cm;
   padding-right: 1.4cm;
-  margin-left: -1.4cm;
-  margin-right: -1.4cm;
-  width: calc(100% + 2.8cm);
+  margin-left: -1.8cm;
+  margin-right: -1.8cm;
+  width: calc(100% + 3.6cm);
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
 }

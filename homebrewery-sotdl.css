@@ -315,3 +315,15 @@
 .phb hr+blockquote h2:before{
 	content: "Difficulty ";
 }
+
+/* Caixa de creditos */
+.phb .credits {
+  border-image: url('https://felipeh92.github.io/homebrewery-sotdl/images/parchment.png') 50 round;
+  background-image: url('https://felipeh92.github.io/homebrewery-sotdl/images/parchment-back.png');
+  border-style: solid;
+  border-width: 20px;
+  padding: 15px;
+  text-align: center;
+}
+.phb .credits p { text-align: center !important; }
+.phb .credits h5 { text-align: center; border: none; }
